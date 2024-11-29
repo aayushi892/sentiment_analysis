@@ -1,0 +1,4 @@
+# requirements.txt
+transformers==4.24.0
+torch==1.13.0
+streamlit==1.17.0
